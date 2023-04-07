@@ -1,4 +1,4 @@
 # aiimage
 
 
-https://ilmongchoi.github.io/aiimage/
+https://ilmongchoi.github.io/aiimage/aiimage
